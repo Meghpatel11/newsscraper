@@ -1,0 +1,1 @@
+content = data.find('div', class_="grid-body").text[38:-62]
