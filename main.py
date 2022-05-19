@@ -16,7 +16,3 @@ print(title)
 
 for lines in content:
     print(lines)
-
-
-
-
